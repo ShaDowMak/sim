@@ -12,3 +12,5 @@
 - [Miro](https://miro.com/miroverse/story-implementation-mapping-sim/)
 - [Excel](templates/sim-template.xlsx)
 - [Numbers](templates/sim-template.numbers)
+
+Автор метода — [Андрей Шапиро](https://ashapiro.ru)
