@@ -85,7 +85,7 @@
 - [Подкаст об историях](https://music.yandex.ru/album/6842874/track/130760365/) в КРИ с Юрием Агеевым
 - Книга «Рабочие истории. Проектирование через текстовые модели поведения с Картой реализации историй» — в работе
 - Шаблоны КРИ
-  - Holst.so — скоро
+  - [Holst.so](https://app.holst.so/board/template/5449dc46-18e7-4962-9b2b-81ac4021d40d)
   - [Figma](https://www.figma.com/community/file/1449066171871911721)
   - [Miro](https://miro.com/miroverse/story-implementation-mapping-sim/)
   - [Numbers](templates/sim-template.numbers)
