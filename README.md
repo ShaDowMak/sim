@@ -78,19 +78,25 @@
 
 ![Структура Карты реализации историй](i/sim-structure.svg)
 
-## Материалы по Карте реализации историй
+
+## Инструментарий
+
+- [Социотех](https://sociotech.center/). Карта реализации историй полностью поддержана в среде Социотех на уровне пользовательских сценариев и структуры данных. Социотех — единственный официальный инструмент от автора методики.
+- Шаблоны Карты реализации историй для электронных досок
+  - [Holst.so](https://app.holst.so/board/template/5449dc46-18e7-4962-9b2b-81ac4021d40d)
+  - [Figma](https://www.figma.com/community/file/1449066171871911721)
+  - [Miro](https://miro.com/miroverse/story-implementation-mapping-sim/)
+  - [Numbers](https://github.com/Byndyusoft/sim/raw/refs/heads/main/templates/sim-template.numbers)
+  - [Excel](https://github.com/Byndyusoft/sim/raw/refs/heads/main/templates/sim-template.xlsx)
+
+## Обучающие материалы по Карте реализации историй
 
 - [Доклады и вебинары](https://ashapiro.ru/talks#!/tfeeds/981100993011/c/%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B9) автора метода
 - [ Первая статья](https://ashapiro.ru/articles/sim) о Карте реализации историй
 - [Подкаст об историях](https://music.yandex.ru/album/6842874/track/130760365/) в КРИ с Юрием Агеевым
 - Книга «Рабочие истории. Проектирование через текстовые модели поведения с Картой реализации историй» — в работе
-- Шаблоны КРИ
-  - [Holst.so](https://app.holst.so/board/template/5449dc46-18e7-4962-9b2b-81ac4021d40d)
-  - [Figma](https://www.figma.com/community/file/1449066171871911721)
-  - [Miro](https://miro.com/miroverse/story-implementation-mapping-sim/)
-  - [Numbers](templates/sim-template.numbers)
-  - [Excel](templates/sim-template.xlsx)
 
 ---
 
 Автор метода — [Андрей Шапиро](https://ashapiro.ru)
+Страница метода на сайте автора — ...
